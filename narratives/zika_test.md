@@ -16,3 +16,8 @@ Explore the phylogenetic tree of Zika virus strains. This view provides insights
 # [Geographic Spread](http://nextstrain.org/community/leke-lyu/zika?d=map&p=full)
 
 Investigate the geographic spread of Zika virus strains across different regions. This slide focuses on the distribution patterns observed in the dataset.
+
+# [Geographic Spread](http://nextstrain.org/community/leke-lyu/zika?d=&p=full)
+
+Investigate the geographic spread of Zika virus strains across different regions. This slide focuses on the distribution patterns observed in the dataset.
+
